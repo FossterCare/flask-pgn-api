@@ -51,6 +51,7 @@ brew install httpie
 `
 http --download -f POST http://127.0.0.1:5000/pgn/  file@file.pgn
 `
+
 where file.pgn is the actual filename for single game
 
 you can split a multi game pgn to multiple single game pgn with [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/)
