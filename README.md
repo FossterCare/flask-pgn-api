@@ -6,6 +6,7 @@ python flask api to convert chess single game pgn to mp4 videos and fen to png i
 ### Installing
 
 install all dependencies
+
 `
 pip install -r requirements.txt
 `
@@ -20,6 +21,7 @@ $ python -m flask run
 `
 
 ### runing app in production mode
+
 `
 gunicorn --bind 0.0.0.0:5000 -w 4  pgn-api:app
 `
