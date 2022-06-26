@@ -1,7 +1,7 @@
 Flask==1.1.1
 opencv_python==4.2.0.34
 python_chess==0.31.0
-CairoSVG==2.4.2
+CairoSVG==2.5.1
 Werkzeug==1.0.0
 numpy==1.22.0
 chess==0.1
