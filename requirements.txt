@@ -1,7 +1,8 @@
-Flask==2.2.2
-opencv_python==4.6.0.66
-python_chess==0.31.0
-CairoSVG==2.6.0
+Flask==2.2.3
+opencv_python==4.7.0.72
+python_chess==1.999
+CairoSVG==2.7.0
 Werkzeug==2.2.3
-numpy==1.24.1
+numpy==1.24.2
 chess==1.9.4
+gunicorn==20.1.0
