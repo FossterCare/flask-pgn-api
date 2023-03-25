@@ -1,3 +1,7 @@
+tmp/*.mp4
+tmp/*.png
+tmp/*.pgn
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
